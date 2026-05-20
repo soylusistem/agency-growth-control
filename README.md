@@ -97,3 +97,17 @@ This repository is being expanded incrementally.
 ## License
 
 MIT License
+
+## Framework Screenshots
+
+### Client Contribution View
+![Client Contribution View](IMG_1553.jpeg)
+
+### Operational Pressure View
+![Operational Pressure View](IMG_1554.jpeg)
+
+### Monthly Visibility Summary
+![Monthly Visibility Summary](IMG_1556.jpeg)
+
+### Revenue and Contribution Trend
+![Revenue and Contribution Trend](IMG_1557.jpeg)

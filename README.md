@@ -23,6 +23,27 @@ This framework explores how founder-led agencies can improve operational visibil
 
 ---
 
+## Framework Flow
+
+```text
+Client Data
+   ↓
+Contribution Visibility
+   ↓
+Operational Pressure Signals
+   ↓
+Monthly Review
+   ↓
+Founder Decision Clarity
+
+```
+
+This repository focuses only on the public visibility layer.
+
+It does not represent the full internal Growth Ops Control System.
+
+---
+
 ## Core Focus Areas
 
 - contribution visibility
@@ -91,6 +112,16 @@ This repository is being expanded incrementally.
 - agency pressure indicators
 - sample operational dashboards
 - structured review workflows
+
+---
+
+## Scope Note
+
+This is a public Lite framework.
+
+It is designed to show a simple contribution-oriented visibility example for founder-led agencies.
+
+It does not include proprietary decision logic, freeze rules, advisory delivery logic, or the full internal Growth Ops Control System.
 
 ---
 

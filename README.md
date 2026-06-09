@@ -78,6 +78,7 @@ This project explores a more operationally-aware review framework.
 docs/
   contribution-logic.md
   monthly-review.md
+  monthly-pressure-signals.md
 ```
 
 Additional framework components will be added progressively.

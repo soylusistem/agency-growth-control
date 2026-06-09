@@ -108,8 +108,6 @@ This repository is being expanded incrementally.
 
 - operational review templates
 - contribution tracking examples
-- monthly review structures
-- agency pressure indicators
 - sample operational dashboards
 - structured review workflows
 
